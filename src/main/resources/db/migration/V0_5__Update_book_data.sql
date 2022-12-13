@@ -1,0 +1,1 @@
+update book set author_id = 1 where id = 3;
